@@ -4,18 +4,18 @@
 
 //void main(void)
 //{
-//	setlocale(LC_ALL, "RUS");
+//	setlocale(lc_all, "rus");
 //	int num;
-//	printf("Введите число: ");
+//	printf("введите число: ");
 //	scanf("%d", &num);
 //
 //	if (num < 50)
 //	{
-//		printf("Зачтено!");
+//		printf("зачтено!");
 //	}
 //	else
 //	{
-//		printf("Попробуйте ещё раз");
+//		printf("попробуйте ещё раз");
 //	}
 //	_getch();
 //}
