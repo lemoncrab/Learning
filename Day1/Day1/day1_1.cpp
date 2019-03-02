@@ -6,7 +6,7 @@
 //{
 //	setlocale(lc_all, "rus");
 //	int num;
-//	printf("введите число: ");
+//	printf("¬ведите число: ");
 //	scanf("%d", &num);
 //
 //	if (num < 50)
