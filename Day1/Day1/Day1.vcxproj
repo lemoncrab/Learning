@@ -112,12 +112,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="day1_1.cpp" />
+    <ClCompile Include="day1_10.cpp" />
     <ClCompile Include="day1_2.cpp" />
     <ClCompile Include="day1_3.cpp" />
     <ClCompile Include="day1_4.cpp" />
     <ClCompile Include="day1_5.cpp" />
     <ClCompile Include="day1_6.cpp" />
     <ClCompile Include="day1_7.cpp" />
+    <ClCompile Include="day1_8.cpp" />
+    <ClCompile Include="day1_9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
